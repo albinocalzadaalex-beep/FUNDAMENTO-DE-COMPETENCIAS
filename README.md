@@ -24,3 +24,4 @@ Este proyecto enciende y apaga un LED cada 1 segundo usando una placa Arduino.
 4. Observa cómo el LED parpadea.
 
 ## Código
+El código principal está en el archivo `.ino`.
